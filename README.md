@@ -1,6 +1,6 @@
-### Responsive Websites
+# Responsive Websites
 
-# Siphome
+### Siphome
 
 [Netlify-Link](https://siphome.netlify.app)
 
